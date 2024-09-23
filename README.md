@@ -98,6 +98,3 @@ This project was developed as part of my **IB Math Applications and Interpretati
 If you’re interested in algorithms or this project, feel free to reach out! Let's connect and learn together. 🤝
 
 ---
-
-### License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
